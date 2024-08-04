@@ -27,7 +27,7 @@ let two = document.querySelector(".previous-operand");
 // let onechar= onestr.split('')
 // let a= onechar.map(Number)
 
-// OROROROROROOR
+// OROROROR
 
 // const a = Array.from(String(one), Number);
 
