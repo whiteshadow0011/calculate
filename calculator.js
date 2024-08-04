@@ -122,3 +122,7 @@ function calculate(expression) {
 function sendMessage(){
   return console.log("knock knock")
 }
+
+function anothermessage(){
+  return console.log("this is another message")
+}
