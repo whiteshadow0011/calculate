@@ -118,3 +118,7 @@ function calculate(expression) {
     return 'Error'
   }
 }
+
+function sendMessage(){
+  return console.log("knock knock")
+}
