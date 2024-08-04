@@ -109,12 +109,3 @@ function onclick(n) {
   console.log(one.innerText)
 }
 
-function calculate(expression) {
-  try {
-    result = eval(expression)
-    console.log(result)
-    return result
-  } catch (error) {
-    return 'Error'
-  }
-}
