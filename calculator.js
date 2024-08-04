@@ -119,7 +119,6 @@ function calculate(expression) {
   }
 }
 
-
 function Message2(){
   return console.log("new message2 was added")
 }
