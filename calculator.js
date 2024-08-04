@@ -118,3 +118,8 @@ function calculate(expression) {
     return 'Error'
   }
 }
+
+
+function Message2(){
+  return console.log("new message2 was added")
+}
